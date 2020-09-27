@@ -1,0 +1,11 @@
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\fianl_q1\bin\Debug\netcoreapp3.0\fianl_q1.exe
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\fianl_q1\bin\Debug\netcoreapp3.0\fianl_q1.deps.json
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\fianl_q1\bin\Debug\netcoreapp3.0\fianl_q1.runtimeconfig.json
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\fianl_q1\bin\Debug\netcoreapp3.0\fianl_q1.runtimeconfig.dev.json
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\fianl_q1\bin\Debug\netcoreapp3.0\fianl_q1.dll
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\fianl_q1\bin\Debug\netcoreapp3.0\fianl_q1.pdb
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\fianl_q1\obj\Debug\netcoreapp3.0\fianl_q1.csprojAssemblyReference.cache
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\fianl_q1\obj\Debug\netcoreapp3.0\fianl_q1.AssemblyInfoInputs.cache
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\fianl_q1\obj\Debug\netcoreapp3.0\fianl_q1.AssemblyInfo.cs
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\fianl_q1\obj\Debug\netcoreapp3.0\fianl_q1.dll
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\2020\final\fianl_q1\obj\Debug\netcoreapp3.0\fianl_q1.pdb

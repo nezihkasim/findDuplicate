@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "fianl_q1/1.0.0": {
+        "runtime": {
+          "fianl_q1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fianl_q1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
